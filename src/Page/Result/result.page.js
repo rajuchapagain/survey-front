@@ -1,13 +1,9 @@
-import "./result.styles.css";
+import "../../App.css";
 
-import React from 'react'
+import React from "react";
 
 function Result() {
-    return (
-        <div>
-            
-        </div>
-    )
+  return <div></div>;
 }
 
-export default Result
+export default Result;
